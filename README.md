@@ -1,4 +1,4 @@
-## Obs:. Meu perfil original (mdss-dev) foi marcado como spam e não aparece pra ninguém, só pra mim quando estou logado por isso fiz esse com um clone de dos meus repositórios até eles resolverem!
+## Obs:. Meu perfil original (mdss-dev) foi marcado como spam e não aparece pra ninguém, só pra mim quando estou logado e só descobri isso recentemente, já abri um ticket e estou aguardando eles ressolverem, por isso fiz esse perfil com um clone(em andamento) dos meus repositórios e irei usar ele por enquanto!
 
 ### Olá!!! Eu sou o Michael Douglas SS(MD)
 - 🔭 Graduado em Análise e Desenvolvimneto de Sistemas
