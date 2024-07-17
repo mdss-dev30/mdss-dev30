@@ -1,6 +1,6 @@
 ## Obs:. Meu perfil original (mdss-dev) foi marcado como spam e não aparece pra ninguém, só pra mim quando estou logado e só descobri isso recentemente, já abri um ticket e estou aguardando eles resolverem, por isso fiz esse perfil com um clone(em andamento) dos meus repositórios e irei usar ele por enquanto!
 
-### Olá!!! Eu sou o Michael Douglas SS(MD)
+### Olá!!! Eu sou o Michael Douglas (MD)
 - 🔭 Graduado em Análise e Desenvolvimneto de Sistemas
 - 🔭 Hoje estou em processo de transição de carreira
 - 🌱 Estou me especializando em desenvolvimento de software (Full Cycle) com as Stacks Java | Spring !!!
@@ -20,7 +20,6 @@
   <img align="center" alt="MD-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" />
   <img align="center" alt="MD-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" />
   <img align="center" alt="MD-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" />
-
 
 </div>
   
